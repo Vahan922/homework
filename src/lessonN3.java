@@ -19,12 +19,12 @@ public class lessonN3 {
 //           String inputStr2 = inputScanner.next();
 //           System.out.println("nor mutq  " + inputStr1 +"  "+ inputStr2);
 
-//           System.out.println("mutq tveq");
-//           String inputStr1 = inputScanner.next();
-//           boolean hasNext = inputScanner.hasNext();
-//           System.out.println("has next arg;" + hasNext);
-//           String inputStr2 = inputScanner.next();
-//           System.out.println("nor mutq  " + inputStr1 +"  "+ inputStr2);
+           System.out.println("mutq tveq");
+           String inputStr1 = inputScanner.next();
+           boolean hasNext = inputScanner.hasNext();
+           System.out.println("has next arg;" + hasNext);
+           String inputStr2 = inputScanner.next();
+           System.out.println("nor mutq  " + inputStr1 +"  "+ inputStr2);
 
 
 if (args.length>0){
